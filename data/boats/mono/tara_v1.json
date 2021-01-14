@@ -1,6 +1,6 @@
 {
 	"_id":16,
-	"label":"mono/tara",
+	"label":"mono/tara_v1",
 	"globalSpeedRatio":1,
 	"iceSpeedRatio":0.3,
 	"autoSailChangeTolerance":1.003,
