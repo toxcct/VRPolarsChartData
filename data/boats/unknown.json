@@ -1,5 +1,5 @@
 {
-	"_id": 0.0,
+	"_id": 0,
 	"label": "unknown",
 	"globalSpeedRatio": 1,
 	"iceSpeedRatio": 0.3,
@@ -42,37 +42,37 @@
 	"sail": [
 		{
 			"id": 1,
-			"name": "JIB",
+			"name": "Jib",
 			"speed": [ [0,0],[0,0] ]
 		},
 		{
 			"id": 2,
-			"name": "SPI",
+			"name": "Spi",
 			"speed": [ [0,0],[0,0] ]
 		},
 		{
 			"id": 3,
-			"name": "STAYSAIL",
+			"name": "Staysail",
 			"speed": [ [0,0],[0,0] ]
 		},
 		{
 			"id": 4,
-			"name": "LIGHT_JIB",
+			"name": "LightJib",
 			"speed": [ [0,0],[0,0] ]
 		},
 		{
 			"id": 5,
-			"name": "CODE_0",
+			"name": "Code0",
 			"speed": [ [0,0],[0,0] ]
 		},
 		{
 			"id": 6,
-			"name": "HEAVY_GNK",
+			"name": "HeavyGnk",
 			"speed": [ [0,0],[0,0] ]
 		},
 		{
 			"id": 7,
-			"name": "LIGHT_GNK",
+			"name": "LightGnk",
 			"speed": [ [0,0],[0,0] ]
 		}
 	]
