@@ -1,5 +1,5 @@
 {
-	"version"	: "263",
+	"version"	: "264",
 	"races"		: [
 		{ "id":"001.1",			"name":"Mini Transat 1/2",					"shortName":"Mini 1/2",				"boatId":"mono/mini_6.50_v2",				"startDate":"2017-10-01T15:00Z", "endDate":"2017-10-13",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
 		{ "id":"329.1",			"name":"Clipper RTW 2/13",					"shortName":"Clipper 2/13",			"boatId":"mono/clipper_70_v2",				"startDate":"2017-10-04T15:00Z", "endDate":"2017-10-14",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
@@ -166,6 +166,7 @@
 		{ "id":"442.1",			"name":"RORC Transatlantic Race",			"shortName":"RORC Transatlantic",	"boatId":"mono/class_40",					"startDate":"2021-01-09T13:00Z", "endDate":"2021-02-08T00:00Z",	"route":{"from":{"flag":"es", "name":"Lanzarote",			"lat":28.825,	"lon":-13.788	}, "to":{"flag":"gd", "name":"Grenada",				"lat":12.0908,	"lon":-61.7675	}, "center":"4/18.56/-33.84"	},	"show":true		},
 		{ "id":"479.1",			"name":"Sydney to Auckland",				"shortName":"Sydney to Auckland",	"boatId":"mono/class_40",					"startDate":"2021-01-30T02:00Z", "endDate":"2021-02-12T15:00Z",	"route":{"from":{"flag":"au", "name":"Sydney",				"lat":-33.83612,"lon":151.2963	}, "to":{"flag":"nz", "name":"Auckland",			"lat":-36.83988,"lon":174.7631	}, "center":"5/-35.084/164.443"	},	"show":true		},
 		{ "id":"470.3",			"name":"Isla Noir - Puerto Montt",			"shortName":"Isla Noir - Puerto Montt","boatId":"mono/tara_v2",					"startDate":"2021-02-14T13:00Z", "endDate":"2021-03-18T15:00Z",	"route":{"from":{"flag":"cl", "name":"Punta Arenas",		"lat":-54.44395,"lon":-73.05154	}, "to":{"flag":"cl", "name":"Puerto Montt",		"lat":-41.48569,"lon":-72.93337	}, "center":"5/-47.872/-71.060"	},	"show":true		},
-		{ "id":"471.1",			"name":"RORC Caribbean 600 Race",			"shortName":"RORC Carib 600",		"boatId":"mono/class_40",					"startDate":"2021-02-22T16:00Z", "endDate":"2021-02-28T23:00Z",	"route":{"from":{"flag":"ag", "name":"Antigua",				"lat":16.9873,	"lon":-61.7759	}, "to":{"flag":"ag", "name":"Antigua",				"lat":17.014,	"lon":-61.7772	}, "center":"7/16.030/-60.941"	},	"show":true		}
+		{ "id":"471.1",			"name":"RORC Caribbean 600 Race",			"shortName":"RORC Carib 600",		"boatId":"mono/class_40",					"startDate":"2021-02-22T16:00Z", "endDate":"2021-02-28T23:00Z",	"route":{"from":{"flag":"ag", "name":"Antigua",				"lat":16.9873,	"lon":-61.7759	}, "to":{"flag":"ag", "name":"Antigua",				"lat":17.014,	"lon":-61.7772	}, "center":"7/16.030/-60.941"	},	"show":true		},
+		{ "id":"482.1",			"name":"Nord Stream Race eSeries 1",		"shortName":"Nord Stream 1",		"boatId":"mono/class_40",					"startDate":"2021-03-12T14:00Z", "endDate":"2021-03-20T21:00Z",	"route":{"from":{"flag":"de", "name":"Kiel",				"lat":54.43926,	"lon":10.23362	}, "to":{"flag":"ru", "name":"St. Petersburg",		"lat":60.08502,	"lon":29.32993	}, "center":"5/57.927/24.521"	},	"show":true		}
 	]
 }
