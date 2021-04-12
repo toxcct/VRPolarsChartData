@@ -1,5 +1,5 @@
 {
-	"version"	: "268",
+	"version"	: "269",
 	"races"		: [
 		{ "id":"001.1",			"name":"Mini Transat 1/2",					"shortName":"Mini 1/2",				"boatId":"mono/mini_6.50_v2",				"startDate":"2017-10-01T15:00Z", "endDate":"2017-10-13",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
 		{ "id":"329.1",			"name":"Clipper RTW 2/13",					"shortName":"Clipper 2/13",			"boatId":"mono/clipper_70_v2",				"startDate":"2017-10-04T15:00Z", "endDate":"2017-10-14",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
@@ -170,6 +170,7 @@
 		{ "id":"482.1",			"name":"Nord Stream Race eSeries 1",		"shortName":"Nord Stream 1",		"boatId":"mono/class_40",					"startDate":"2021-03-12T14:00Z", "endDate":"2021-03-20T20:00Z",	"route":{"from":{"flag":"de", "name":"Kiel",				"lat":54.43926,	"lon":10.23362	}, "to":{"flag":"ru", "name":"St. Petersburg",		"lat":60.08502,	"lon":29.32993	}, "center":"5/57.927/24.521"	},	"show":true		},
 		{ "id":"470.4",			"name":"Puerto Montt - Valparaiso",			"shortName":"Puerto Montt - Valparaiso","boatId":"mono/tara_v2",				"startDate":"2021-03-25T14:00Z", "endDate":"2021-04-08T14:00Z",	"route":{"from":{"flag":"cl", "name":"Puerto Montt",		"lat":-42.85679,"lon":-73.12838	}, "to":{"flag":"cl", "name":"Valparaiso",			"lat":-33.03344,"lon":-71.62329	}, "center":"6/-37.396/-71.938"	},	"show":true		},
 		{ "id":"474.1",			"name":"Solo Maître Coq",					"shortName":"Maitre Coq",			"boatId":"mono/figaro_2",					"startDate":"2021-03-18T12:00Z", "endDate":"2021-03-23T20:00Z",	"route":{"from":{"flag":"fr", "name":"Les Sables d'Olonne",	"lat":46.47215,	"lon":-1.768994	}, "to":{"flag":"fr", "name":"Les Sables d'Olonne",	"lat":46.47215,	"lon":-1.768994	}, "center":"8/47.165/-2.670"	},	"show":true		},
-		{ "id":"482.2",			"name":"Nord Stream Race eSeries 2",		"shortName":"Nord Stream 2",		"boatId":"mono/class_40",					"startDate":"2021-04-09T13:00Z", "endDate":"2021-04-16T20:00Z",	"route":{"from":{"flag":"dk", "name":"Copenhagen",			"lat":55.55378,	"lon":12.51466	}, "to":{"flag":"ru", "name":"St. Petersburg",		"lat":60.11372,	"lon":29.68507	}, "center":"5/57.927/24.521"	},	"show":true		}
+		{ "id":"482.2",			"name":"Nord Stream Race eSeries 2",		"shortName":"Nord Stream 2",		"boatId":"mono/class_40",					"startDate":"2021-04-09T13:00Z", "endDate":"2021-04-16T20:00Z",	"route":{"from":{"flag":"dk", "name":"Copenhagen",			"lat":55.55378,	"lon":12.51466	}, "to":{"flag":"ru", "name":"St. Petersburg",		"lat":60.11372,	"lon":29.68507	}, "center":"5/57.927/24.521"	},	"show":true		},
+		{ "id":"470.5",			"name":"Valparaiso - Iquique",				"shortName":"Valparaiso - Iquique",	"boatId":"mono/tara_v2",					"startDate":"2021-04-17T12:00Z", "endDate":"2021-04-28T20:00Z",	"route":{"from":{"flag":"cl", "name":"Valparaiso",			"lat":-33.03344,"lon":-71.62329	}, "to":{"flag":"cl", "name":"Iquique",				"lat":-20.2052,"lon":-70.15253	}, "center":"6/-26.863/-70.708"	},	"show":true		}
 	]
 }
