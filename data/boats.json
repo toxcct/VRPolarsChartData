@@ -1,5 +1,5 @@
 {
-	"version"	: "90",
+	"version"	: "91",
 	"boats"		: [
 		{ "id":"mono/mini_6.50_v2",					"name":"Mini 6.50"				},
 		{ "id":"mono/clipper_70_v2",				"name":"Clipper 70"				},

@@ -1,5 +1,5 @@
 {
-	"version"	: "277",
+	"version"	: "278",
 	"races"		: [
 		{ "id":"001.1",			"name":"Mini Transat 1/2",					"shortName":"Mini 1/2",				"boatId":"mono/mini_6.50_v2",				"startDate":"2017-10-01T15:00Z", "endDate":"2017-10-13",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
 		{ "id":"329.1",			"name":"Clipper RTW 2/13",					"shortName":"Clipper 2/13",			"boatId":"mono/clipper_70_v2",				"startDate":"2017-10-04T15:00Z", "endDate":"2017-10-14",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
@@ -177,6 +177,7 @@
 		{ "id":"470.6",			"name":"Iquique - Panama",					"shortName":"Iquique - Panama",		"boatId":"mono/tara_v2",					"startDate":"2021-05-12T12:00Z", "endDate":"2021-06-02T20:00Z",	"route":{"from":{"flag":"cl", "name":"Iquique",				"lat":-20.19147,"lon":-70.16764	}, "to":{"flag":"pa", "name":"Panama",				"lat":8.93859,	"lon":-79.56228	}, "center":"4/-8.15/-68.64"	},	"show":true		},
 		{ "id":"472.1",			"name":"La Transat en Double",				"shortName":"La Transat en Double",	"boatId":"mono/figaro3",					"startDate":"2021-05-12T15:00Z", "endDate":"2021-05-28T23:00Z",	"route":{"from":{"flag":"fr", "name":"Concarneau",			"lat":47.81373,	"lon":-4.02905	}, "to":{"flag":"fr", "name":"Saint-Barthélémy",	"lat":17.89668,	"lon":-62.85646	}, "center":"4/34.31/-26.02"	},	"show":true		},
 		{ "id":"485.1",			"name":"TAG HEUER VELA CUP",				"shortName":"TAG HEUER VELA CUP",	"boatId":"mono/super_maxi_100",				"startDate":"2021-05-15T15:00Z", "endDate":"2021-06-04T15:00Z",	"route":{"from":{"flag":"it", "name":"Genoa",				"lat":44.38747,	"lon":8.94321	}, "to":{"flag":"it", "name":"Cagliari",			"lat":39.21212,	"lon":9.111095	}, "center":"6/41.467/10.811"	},	"show":true		},
-		{ "id":"487.1",			"name":"Atlantic Record",					"shortName":"Atlantic Record",		"boatId":"mono/super_maxi_100",				"startDate":"2021-05-15T00:00Z", "endDate":"2021-07-01T00:00Z",	"route":{"from":{"flag":"us", "name":"New York",			"lat":40.43943,	"lon":-73.92772	}, "to":{"flag":"gb", "name":"Lizard Point",		"lat":48.37852,	"lon":-4.489018	}, "center":"4/45.43/-25.31"	},	"show":true		}
+		{ "id":"487.1",			"name":"Atlantic Record",					"shortName":"Atlantic Record",		"boatId":"mono/super_maxi_100",				"startDate":"2021-05-15T00:00Z", "endDate":"2021-07-01T00:00Z",	"route":{"from":{"flag":"us", "name":"New York",			"lat":40.43943,	"lon":-73.92772	}, "to":{"flag":"gb", "name":"Lizard Point",		"lat":48.37852,	"lon":-4.489018	}, "center":"4/45.43/-25.31"	},	"show":true		},
+		{ "id":"476.1",			"name":"Rio to Tokyo Race",					"shortName":"Rio to Tokyo",			"boatId":"multi/maxi_trimaran_x10percent",	"startDate":"2021-05-28T20:00Z", "endDate":"2021-06-28T20:00Z",	"route":{"from":{"flag":"br", "name":"Rio de Janeiro",		"lat":-16.51093,"lon":-37.31907	}, "to":{"flag":"jp", "name":"Tokyo",				"lat":34.91459,	"lon":139.6267	}, "center":"2/12.4/51.3"		},	"show":true		}
 	]
 }
