@@ -1,10 +1,11 @@
 {
-	"version"	: "92",
+	"version"	: "93",
 	"boats"		: [
 		{ "id":"mono/mini_6.50_v2",					"name":"Mini 6.50"				},
 		{ "id":"mono/clipper_70_v2",				"name":"Clipper 70"				},
 		{ "id":"mono/class_40",						"name":"Class 40"				},
 		{ "id":"mono/class_40_x80percent",			"name":"Class 40 (-20%)"		},
+		{ "id":"mono/class40-2021",					"name":"Class 40 (2021)"		},
 		{ "id":"mono/vo65",							"name":"Volvo 65"				},
 		{ "id":"mono/figaro_2",						"name":"Figaro 2"				},
 		{ "id":"mono/figaro3",						"name":"Figaro 3"				},
