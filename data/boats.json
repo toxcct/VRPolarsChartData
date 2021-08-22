@@ -1,5 +1,5 @@
 {
-	"version"	: "93",
+	"version"	: "94",
 	"boats"		: [
 		{ "id":"mono/mini_6.50_v2",					"name":"Mini 6.50"				},
 		{ "id":"mono/clipper_70_v2",				"name":"Clipper 70"				},
@@ -17,6 +17,7 @@
 		{ "id":"mono/super_maxi_100",				"name":"Super Maxi 100"			},
 		{ "id":"mono/tara_v1",						"name":"Tara v1"				},
 		{ "id":"mono/tara_v2",						"name":"Tara v2"				},
+		{ "id":"mono/offshoreracer",				"name":"Offshore Racer"			},
 		{ "id":"multi/maxi_trimaran",				"name":"Maxi Trimaran"			},
 		{ "id":"multi/maxi_trimaran_x10percent",	"name":"Maxi Trimaran (+10%)"	},
 		{ "id":"multi/maxi_trimaran_x4percent",		"name":"Maxi Trimaran (+4%)"	},
