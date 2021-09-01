@@ -1,5 +1,5 @@
 {
-	"version"	: "300",
+	"version"	: "301",
 	"races"		: [
 		{ "id":"001.1",			"name":"Mini Transat 1/2",					"shortName":"Mini 1/2",				"boatId":"mono/mini_6.50_v2",				"startDate":"2017-10-01T15:00Z", "endDate":"2017-10-13",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
 		{ "id":"329.1",			"name":"Clipper RTW 2/13",					"shortName":"Clipper 2/13",			"boatId":"mono/clipper_70_v2",				"startDate":"2017-10-04T15:00Z", "endDate":"2017-10-14",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
@@ -193,6 +193,7 @@
 		{ "id":"495.1",			"name":"La Solitaire du Figaro #1",			"shortName":"Figaro #1",			"boatId":"mono/figaro3",					"startDate":"2021-08-22T15:45Z", "endDate":"2021-08-29T12:00Z",	"route":{"from":{"flag":"fr", "name":"Saint-Nazaire",		"lat":47.16846,	"lon":-2.285637	}, "to":{"flag":"fr", "name":"Lorient",				"lat":47.69531,	"lon":-3.369163	}, "center":"7/45.533/-3.977"	},	"show":true		},
 		{ "id":"495.2",			"name":"La Solitaire du Figaro #2",			"shortName":"Figaro #2",			"boatId":"mono/figaro3",					"startDate":"2021-08-29T12:00Z", "endDate":"2021-09-05T11:00Z",	"route":{"from":{"flag":"fr", "name":"Lorient",				"lat":47.61978,	"lon":-3.37603	}, "to":{"flag":"fr", "name":"Fécamp",				"lat":49.7698,	"lon":0.366707	}, "center":"7/48.810/-1.219"	},	"show":true		},
 		{ "id":"484.1",			"name":"Nord Stream Race eTrophy",			"shortName":"Nord Stream",			"boatId":"mono/class40-2021",				"startDate":"2021-09-06T12:00Z", "endDate":"2021-09-17T20:00Z",	"route":{"from":{"flag":"de", "name":"Kiel",				"lat":54.45581,	"lon":10.2255	}, "to":{"flag":"ru", "name":"St. Petersburg",		"lat":60.07237,	"lon":29.32867	}, "center":"5/57.927/24.521"	},	"show":true		},
-		{ "id":"495.3",			"name":"La Solitaire du Figaro #3",			"shortName":"Figaro #3",			"boatId":"mono/figaro3",					"startDate":"2021-09-05T12:00Z", "endDate":"2021-09-12T11:00Z",	"route":{"from":{"flag":"fr", "name":"Fécamp",				"lat":49.7698,	"lon":0.366707	}, "to":{"flag":"fr", "name":"Baie de Morlaix",		"lat":48.71261,	"lon":-3.897399	}, "center":"7/49.465/-0.747"	},	"show":true		}
+		{ "id":"495.3",			"name":"La Solitaire du Figaro #3",			"shortName":"Figaro #3",			"boatId":"mono/figaro3",					"startDate":"2021-09-05T12:00Z", "endDate":"2021-09-12T11:00Z",	"route":{"from":{"flag":"fr", "name":"Fécamp",				"lat":49.7698,	"lon":0.366707	}, "to":{"flag":"fr", "name":"Baie de Morlaix",		"lat":48.71261,	"lon":-3.897399	}, "center":"7/49.465/-0.747"	},	"show":true		},
+		{ "id":"500.1",			"name":"Round Britain Record",				"shortName":"Round Britain Record",	"boatId":"mono/class40-2021",				"startDate":"2021-09-01T00:00Z", "endDate":"2021-10-15T00:00Z",	"route":{"from":{"flag":"gb", "name":"Lizard Point",		"lat":49.84407,	"lon":-5.207692	}, "to":{"flag":"gb", "name":"Lizard Point",		"lat":49.949,	"lon":-5.216339	}, "center":"5/54.214/1.582"	},	"show":true		}
 	]
 }
