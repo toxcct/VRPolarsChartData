@@ -1,7 +1,8 @@
 {
-	"version"	: "94",
+	"version"	: "95",
 	"boats"		: [
 		{ "id":"mono/mini_6.50_v2",					"name":"Mini 6.50"				},
+		{ "id":"mono/mini_6.50_v3",					"name":"Mini 6.50 (2021)"		},
 		{ "id":"mono/clipper_70_v2",				"name":"Clipper 70"				},
 		{ "id":"mono/class_40",						"name":"Class 40"				},
 		{ "id":"mono/class_40_x80percent",			"name":"Class 40 (-20%)"		},
