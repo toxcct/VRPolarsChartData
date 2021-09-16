@@ -1,5 +1,5 @@
 {
-	"version"	: "308",
+	"version"	: "309",
 	"races"		: [
 		{ "id":"001.1",			"name":"Mini Transat 1/2",					"shortName":"Mini 1/2",				"boatId":"mono/mini_6.50_v2",				"startDate":"2017-10-01T15:00Z", "endDate":"2017-10-13",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
 		{ "id":"329.1",			"name":"Clipper RTW 2/13",					"shortName":"Clipper 2/13",			"boatId":"mono/clipper_70_v2",				"startDate":"2017-10-04T15:00Z", "endDate":"2017-10-14",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
@@ -197,6 +197,6 @@
 		{ "id":"500.1",			"name":"Round Britain Record",				"shortName":"Round Britain Record",	"boatId":"mono/class40-2021",				"startDate":"2021-09-01T00:00Z", "endDate":"2021-10-15T00:00Z",	"route":{"from":{"flag":"gb", "name":"Lizard Point",		"lat":49.84407,	"lon":-5.207692	}, "to":{"flag":"gb", "name":"Lizard Point",		"lat":49.949,	"lon":-5.216339	}, "center":"5/54.214/1.582"	},	"show":true		},
 		{ "id":"477.3",			"name":"Mauritius - Auckland",				"shortName":"Mauritius - Auckland",	"boatId":"mono/class40-2021",				"startDate":"2021-09-11T17:00Z", "endDate":"2021-10-10T17:00Z",	"route":{"from":{"flag":"mu", "name":"Mauritius",			"lat":-20.11923,"lon":57.4497	}, "to":{"flag":"nz", "name":"Auckland",			"lat":-36.8253,	"lon":174.8362	}, "center":"3/-24.85/112.85"	},	"show":true		},
 		{ "id":"495.4",			"name":"La Solitaire du Figaro #4",			"shortName":"Figaro #4",			"boatId":"mono/figaro3",					"startDate":"2021-09-12T14:00Z", "endDate":"2021-09-19T20:00Z",	"route":{"from":{"flag":"fr", "name":"Baie de Morlaix",		"lat":48.71261,	"lon":-3.897399	}, "to":{"flag":"fr", "name":"Saint Nazaire",		"lat":47.25628,	"lon":-2.188819	}, "center":"7/48.415/-2.230"	},	"show":true		},
-		{ "id":"501.1",			"name":"RoundItaly",						"shortName":"RoundItaly",			"boatId":"mono/class40-2021",				"startDate":"2021-09-16T19:00Z", "endDate":"2021-09-27T20:00Z",	"route":{"from":{"flag":"it", "name":"Genova",				"lat":44.37593,"lon":8.993194	}, "to":{"flag":"it", "name":"Trieste",				"lat":45.67739,	"lon":13.75168	}, "center":"6/41.162/16.567"	},	"show":true		}
+		{ "id":"501.1",			"name":"RoundItaly",						"shortName":"RoundItaly",			"boatId":"mono/class40-2021",				"startDate":"2021-09-16T19:00Z", "endDate":"2021-09-30T20:00Z",	"route":{"from":{"flag":"it", "name":"Genova",				"lat":44.37593,"lon":8.993194	}, "to":{"flag":"it", "name":"Trieste",				"lat":45.67739,	"lon":13.75168	}, "center":"6/41.162/16.567"	},	"show":true		}
 	]
 }
