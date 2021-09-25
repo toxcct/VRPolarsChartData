@@ -1,5 +1,5 @@
 {
-	"version"	: "96",
+	"version"	: "97",
 	"boats"		: [
 		{ "id":"mono/mini_6.50_v2",					"name":"Mini 6.50"				},
 		{ "id":"mono/mini_6.50_v3",					"name":"Mini 6.50 (2021)"		},
@@ -26,6 +26,7 @@
 		{ "id":"multi/happy",						"name":"Happy"					},
 		{ "id":"multi/ultim_macif",					"name":"Ultimate MACIF"			},
 		{ "id":"multi/multi_50",					"name":"Multi 50"				},
+		{ "id":"multi/multi_50_v2",					"name":"Multi 50 (2021)"		},
 		{ "id":"unknown",							"name":"[Unknown]"				}
 	]
 }
