@@ -1,5 +1,5 @@
 {
-	"version"	: "319",
+	"version"	: "320",
 	"races"		: [
 		{ "id":"001.1",			"name":"Mini Transat 1/2",					"shortName":"Mini 1/2",				"boatId":"mono/mini_6.50_v2",				"startDate":"2017-10-01T15:00Z", "endDate":"2017-10-13",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
 		{ "id":"329.1",			"name":"Clipper RTW 2/13",					"shortName":"Clipper 2/13",			"boatId":"mono/clipper_70_v2",				"startDate":"2017-10-04T15:00Z", "endDate":"2017-10-14",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
@@ -205,6 +205,7 @@
 		{ "id":"488.1",			"name":"Transat Jacques Vabre - Ocean 50",	"shortName":"TJV Ocean 50",			"boatId":"multi/multi_50_v2",				"startDate":"2021-11-07T12:27Z", "endDate":"2021-12-07T13:00Z",	"route":{"from":{"flag":"fr", "name":"Le Havre",			"lat":49.46726,	"lon":0.02072348}, "to":{"flag":"fr", "name":"Fort de France",		"lat":14.60919,	"lon":-61.01795	}, "center":"4/29.99/-24.26"	},	"show":true		},
 		{ "id":"489.1",			"name":"Transat Jacques Vabre - IMOCA",		"shortName":"TJV IMOCA",			"boatId":"mono/imoca_60_foils",				"startDate":"2021-11-07T12:27Z", "endDate":"2021-12-07T13:00Z",	"route":{"from":{"flag":"fr", "name":"Le Havre",			"lat":49.46726,	"lon":0.02072348}, "to":{"flag":"fr", "name":"Fort de France",		"lat":14.60919,	"lon":-61.01795	}, "center":"4/29.99/-24.26"	},	"show":true		},
 		{ "id":"490.1",			"name":"Transat Jacques Vabre - ULTIM'",	"shortName":"TJV ULTIM'",			"boatId":"multi/maxi_trimaran_x10percent",	"startDate":"2021-11-07T12:27Z", "endDate":"2021-12-07T13:00Z",	"route":{"from":{"flag":"fr", "name":"Le Havre",			"lat":49.46726,	"lon":0.02072348}, "to":{"flag":"fr", "name":"Fort de France",		"lat":14.60919,	"lon":-61.01795	}, "center":"4/29.99/-24.26"	},	"show":true		},
-		{ "id":"491.1",			"name":"Transat Jacques Vabre - Class 40",	"shortName":"TJV Class 40",			"boatId":"mono/class40-2021",				"startDate":"2021-11-07T12:27Z", "endDate":"2021-12-07T13:00Z",	"route":{"from":{"flag":"fr", "name":"Le Havre",			"lat":49.46726,	"lon":0.02072348}, "to":{"flag":"fr", "name":"Fort de France",		"lat":14.60919,	"lon":-61.01795	}, "center":"4/29.99/-24.26"	},	"show":true		}
+		{ "id":"491.1",			"name":"Transat Jacques Vabre - Class 40",	"shortName":"TJV Class 40",			"boatId":"mono/class40-2021",				"startDate":"2021-11-07T12:27Z", "endDate":"2021-12-07T13:00Z",	"route":{"from":{"flag":"fr", "name":"Le Havre",			"lat":49.46726,	"lon":0.02072348}, "to":{"flag":"fr", "name":"Fort de France",		"lat":14.60919,	"lon":-61.01795	}, "center":"4/29.99/-24.26"	},	"show":true		},
+		{ "id":"480.2",			"name":"Mini Transat #2",					"shortName":"Mini Transat #2",		"boatId":"mono/mini_6.50_v3",				"startDate":"2021-10-29T12:00Z", "endDate":"2021-11-10T15:38Z",	"route":{"from":{"flag":"es", "name":"Santa Cruz",			"lat":28.39508,	"lon":-17.83097	}, "to":{"flag":"fr", "name":"Saint François",		"lat":16.24973,	"lon":-61.27302	}, "center":"4/16.89/-31.29"	},	"show":true		}
 	]
 }
