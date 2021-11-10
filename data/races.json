@@ -1,5 +1,5 @@
 {
-	"version"	: "327",
+	"version"	: "328",
 	"races"		: [
 		{ "id":"001.1",			"name":"Mini Transat 1/2",					"shortName":"Mini 1/2",				"boatId":"mono/mini_6.50_v2",				"startDate":"2017-10-01T15:00Z", "endDate":"2017-10-13",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
 		{ "id":"329.1",			"name":"Clipper RTW 2/13",					"shortName":"Clipper 2/13",			"boatId":"mono/clipper_70_v2",				"startDate":"2017-10-04T15:00Z", "endDate":"2017-10-14",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
@@ -209,6 +209,6 @@
 		{ "id":"480.2",			"name":"Mini Transat #2",					"shortName":"Mini Transat #2",		"boatId":"mono/mini_6.50_v3",				"startDate":"2021-10-29T12:00Z", "endDate":"2021-11-15T15:38Z",	"route":{"from":{"flag":"es", "name":"Santa Cruz",			"lat":28.39508,	"lon":-17.83097	}, "to":{"flag":"fr", "name":"Saint François",		"lat":16.24973,	"lon":-61.27302	}, "center":"4/16.89/-31.29"	},	"show":true		},
 		{ "id":"504.1",			"name":"Mediterranean Record",				"shortName":"Mediterranean Record",	"boatId":"multi/multi_50_v2",				"startDate":"2021-10-15T00:00Z", "endDate":"2021-11-01T00:00Z",	"route":{"from":{"flag":"fr", "name":"Marseille",			"lat":43.2456,	"lon":5.30359	}, "to":{"flag":"tn", "name":"Carthage",			"lat":36.795,	"lon":10.392	}, "center":"6/40.764/10.833"	},	"show":true		},
 		{ "id":"477.4",			"name":"Auckland - Papeete",				"shortName":"Auckland - Papeete",	"boatId":"mono/class40-2021",				"startDate":"2021-10-27T17:00Z", "endDate":"2021-11-13T17:00Z",	"route":{"from":{"flag":"nz", "name":"Auckland",			"lat":-36.40644,"lon":175.5393	}, "to":{"flag":"fr", "name":"Papeete",				"lat":-17.5418,	"lon":-149.579	}, "center":"4/-34.16/-144.14"	},	"show":true		},
-		{ "id":"470.9",			"name":"Salvador de Bahia - Rio de Janeiro","shortName":"Bahia - Rio",			"boatId":"mono/tara_v3",					"startDate":"2021-11-18T16:00Z", "endDate":"2021-12-08T16:00Z",	"route":{"from":{"flag":"br", "name":"Salvador de Bahia",	"lat":-13.06195,"lon":-38.47332	}, "to":{"flag":"br", "name":"Rio de Janeiro",		"lat":-22.9606,	"lon":-43.12602	}, "center":"6/-17.466/-36.035"	},	"show":true		}
+		{ "id":"470.9",			"name":"Salvador de Bahia - Rio de Janeiro","shortName":"Bahia - Rio",			"boatId":"mono/tara_v3",					"startDate":"2021-11-20T15:00Z", "endDate":"2021-12-08T16:00Z",	"route":{"from":{"flag":"br", "name":"Salvador de Bahia",	"lat":-13.06195,"lon":-38.47332	}, "to":{"flag":"br", "name":"Rio de Janeiro",		"lat":-22.9606,	"lon":-43.12602	}, "center":"6/-17.466/-36.035"	},	"show":true		}
 	]
 }
