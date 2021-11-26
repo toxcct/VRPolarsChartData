@@ -1,11 +1,10 @@
 {
-	"_id":10,
+	"_id":10.0,
 	"label":"multi/happy",
 	"globalSpeedRatio":1,
 	"iceSpeedRatio":0.3,
-	"autoSailChangeTolerance":1.014,
-	"badSailTolerance":1.02,
-	"maxSpeed":12.88,
+	"autoSailChangeTolerance":1.003,
+	"badSailTolerance":1.01,
 	"foil":{
 		"speedRatio":1.04,
 		"twaMin":80,
@@ -23,82 +22,20 @@
 			"stdTimerSec":300,
 			"stdRatio":0.5,
 			"proTimerSec":75,
-			"proRatio":0.5,
-			"std":{
-				"lw":{
-					"ratio":0.5,
-					"timer":180
-				},
-				"hw":{
-					"ratio":0.5,
-					"timer":300
-				}
-			},
-			"pro":{
-				"lw":{
-					"ratio":0.7,
-					"timer":180
-				},
-				"hw":{
-					"ratio":0.7,
-					"timer":300
-				}
-			}
+			"proRatio":0.5
 		},
 		"gybe":{
 			"stdTimerSec":300,
 			"stdRatio":0.5,
 			"proTimerSec":75,
-			"proRatio":0.5,
-			"std":{
-				"lw":{
-					"ratio":0.5,
-					"timer":180
-				},
-				"hw":{
-					"ratio":0.5,
-					"timer":300
-				}
-			},
-			"pro":{
-				"lw":{
-					"ratio":0.7,
-					"timer":180
-				},
-				"hw":{
-					"ratio":0.7,
-					"timer":300
-				}
-			}
+			"proRatio":0.5
 		},
 		"sailChange":{
 			"stdTimerSec":300,
 			"stdRatio":0.5,
 			"proTimerSec":75,
-			"proRatio":0.5,
-			"std":{
-				"lw":{
-					"ratio":0.5,
-					"timer":240
-				},
-				"hw":{
-					"ratio":0.5,
-					"timer":420
-				}
-			},
-			"pro":{
-				"lw":{
-					"ratio":0.7,
-					"timer":240
-				},
-				"hw":{
-					"ratio":0.7,
-					"timer":420
-				}
-			}
-		},
-		"lws":10,
-		"hws":30
+			"proRatio":0.5
+		}
 	},
 	"tws":[0,3,6,9,12,15,18,21,24,27,30,35,40,50,70],
 	"twa":[0,30,40,45,50,55,60,65,70,75,80,85,90,95,100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,180],
