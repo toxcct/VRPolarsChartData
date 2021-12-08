@@ -1,6 +1,6 @@
 {
 	"_id":11,
-	"label":"multi/multi_50",
+	"label":"multi/multi_50_v1",
 	"globalSpeedRatio":1,
 	"iceSpeedRatio":0.3,
 	"autoSailChangeTolerance":1.003,

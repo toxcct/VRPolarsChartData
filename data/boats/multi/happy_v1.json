@@ -1,6 +1,6 @@
 {
 	"_id":10.0,
-	"label":"multi/happy",
+	"label":"multi/happy_v1",
 	"globalSpeedRatio":1,
 	"iceSpeedRatio":0.3,
 	"autoSailChangeTolerance":1.003,

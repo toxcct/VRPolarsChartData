@@ -1,8 +1,8 @@
 {
-	"version"	: "100",
+	"version"	: "103",
 	"boats"		: [
-		{ "id":"mono/mini_6.50_v2",					"name":"Mini 6.50"				},
-		{ "id":"mono/mini_6.50_v3",					"name":"Mini 6.50 (2021)"		},
+		{ "id":"mono/mini_6.50_v2",					"name":"Mini 6.50 (V2)"			},
+		{ "id":"mono/mini_6.50_v3",					"name":"Mini 6.50 (V3)"			},
 		{ "id":"mono/clipper_70_v2",				"name":"Clipper 70"				},
 		{ "id":"mono/class_40",						"name":"Class 40"				},
 		{ "id":"mono/class_40_x80percent",			"name":"Class 40 (-20%)"		},
@@ -16,19 +16,19 @@
 		{ "id":"mono/caravel",						"name":"Caravelle"				},
 		{ "id":"mono/oceanis",						"name":"Oceanis 40.1"			},
 		{ "id":"mono/super_maxi_100",				"name":"Super Maxi 100"			},
-		{ "id":"mono/tara_v1",						"name":"Tara v1"				},
-		{ "id":"mono/tara_v2",						"name":"Tara v2"				},
-		{ "id":"mono/tara_v3",						"name":"Tara v3"				},
+		{ "id":"mono/tara_v1",						"name":"Tara (V1)"				},
+		{ "id":"mono/tara_v2",						"name":"Tara (V2)"				},
+		{ "id":"mono/tara_v3",						"name":"Tara (V3)"				},
 		{ "id":"mono/offshoreracer",				"name":"Offshore Racer"			},
 		{ "id":"multi/maxi_trimaran_v1",			"name":"Maxi Trimaran (V1)"		},
 		{ "id":"multi/maxi_trimaran_v2",			"name":"Maxi Trimaran (V2)"		},
 		{ "id":"multi/maxi_trimaran_x10percent",	"name":"Maxi Trimaran (+10%)"	},
 		{ "id":"multi/maxi_trimaran_x4percent",		"name":"Maxi Trimaran (+4%)"	},
-		{ "id":"multi/happy_v1",					"name":"Happy v1"				},
-		{ "id":"multi/happy",						"name":"Happy"					},
+		{ "id":"multi/happy_v1",					"name":"Happy (V1)"				},
+		{ "id":"multi/happy_v2",					"name":"Happy (V2)"				},
 		{ "id":"multi/ultim_macif",					"name":"Ultimate MACIF"			},
-		{ "id":"multi/multi_50",					"name":"Multi 50"				},
-		{ "id":"multi/multi_50_v2",					"name":"Multi 50 (2021)"		},
+		{ "id":"multi/multi_50_v1",					"name":"Multi 50 (V1)"			},
+		{ "id":"multi/multi_50_v2",					"name":"Multi 50 (V2)"			},
 		{ "id":"unknown",							"name":"[Unknown]"				}
 	]
 }
