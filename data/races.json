@@ -1,5 +1,5 @@
 {
-	"version"	: "337",
+	"version"	: "338",
 	"races"		: [
 		{ "id":"001.1",			"name":"Mini Transat 1/2",					"shortName":"Mini 1/2",				"boatId":"mono/mini_6.50_v2",				"startDate":"2017-10-01T15:00Z", "endDate":"2017-10-13",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
 		{ "id":"329.1",			"name":"Clipper RTW 2/13",					"shortName":"Clipper 2/13",			"boatId":"mono/clipper_70_v2",				"startDate":"2017-10-04T15:00Z", "endDate":"2017-10-14",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
@@ -214,6 +214,6 @@
 		{ "id":"477.5",			"name":"Papeete - Ushuaia",					"shortName":"Papeete - Ushuaia",	"boatId":"mono/class40-2021",				"startDate":"2021-11-26T17:00Z", "endDate":"2021-12-17T17:00Z",	"route":{"from":{"flag":"fr", "name":"Papeete",				"lat":-17.76277,"lon":-149.6475	}, "to":{"flag":"ar", "name":"Ushuaia",				"lat":-54.98535,"lon":-66.84244	}, "center":"3/-35.96/-102.30"	},	"show":true		},
 		{ "id":"481.1",			"name":"Route du Rhum 78'",					"shortName":"Rte Rhum 78'",			"boatId":"multi/happy_v2",					"startDate":"2021-12-05T18:00Z", "endDate":"2021-12-31T13:00Z",	"route":{"from":{"flag":"fr", "name":"Saint-Malo",			"lat":48.71828,	"lon":-2.144077	}, "to":{"flag":"fr", "name":"Pointe-à-Pitre",		"lat":16.18246,	"lon":-61.53909	}, "center":"3/30.37/-20.39"	},	"show":true		},
 		{ "id":"515.1",			"name":"Use It Again",						"shortName":"Use It Again",			"boatId":"multi/maxi_trimaran_v2",			"startDate":"2021-12-07T12:00Z", "endDate":"2022-05-30T16:18Z",	"route":{"from":{"flag":"fr", "name":"Lorient",				"lat":47.67043,	"lon":-3.503773	}, "to":{"flag":"fr", "name":"Lorient",				"lat":47.74421,	"lon":-3.347904	}, "center":"2/3.5/19.7"		},	"show":true		},
-		{ "id":"514.1",			"name":"Christmas Race",					"shortName":"Christmas Race",		"boatId":"multi/multi_50_v2",				"startDate":"2021-12-19T18:00Z", "endDate":"2021-12-30T14:30Z",	"route":{"from":{"flag":"us", "name":"Boston",				"lat":42.33844,	"lon":-70.89955	}, "to":{"flag":"no", "name":"North Cape",			"lat":71.16777,	"lon":25.70119	}, "center":"3/53.54/-22.15"	},	"show":true		}
+		{ "id":"514.1",			"name":"Christmas Race",					"shortName":"Christmas Race",		"boatId":"multi/multi_50_v2",				"startDate":"2021-12-19T18:00Z", "endDate":"2021-12-31T14:30Z",	"route":{"from":{"flag":"us", "name":"Boston",				"lat":42.31896,	"lon":-70.88582	}, "to":{"flag":"no", "name":"North Cape",			"lat":71.16777,	"lon":25.70119	}, "center":"3/53.54/-22.15"	},	"show":true		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"version"	: "103",
+	"version"	: "104",
 	"boats"		: [
 		{ "id":"mono/mini_6.50_v2",					"name":"Mini 6.50 (V2)"			},
 		{ "id":"mono/mini_6.50_v3",					"name":"Mini 6.50 (V3)"			},
@@ -27,8 +27,8 @@
 		{ "id":"multi/happy_v1",					"name":"Happy (V1)"				},
 		{ "id":"multi/happy_v2",					"name":"Happy (V2)"				},
 		{ "id":"multi/ultim_macif",					"name":"Ultimate MACIF"			},
-		{ "id":"multi/multi_50_v1",					"name":"Multi 50 (V1)"			},
-		{ "id":"multi/multi_50_v2",					"name":"Multi 50 (V2)"			},
+		{ "id":"multi/multi_50_v1",					"name":"Ocean Fifty (V1)"		},
+		{ "id":"multi/multi_50_v2",					"name":"Ocean Fifty (V2)"		},
 		{ "id":"unknown",							"name":"[Unknown]"				}
 	]
 }
