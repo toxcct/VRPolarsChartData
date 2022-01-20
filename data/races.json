@@ -1,5 +1,5 @@
 {
-	"version"	: "346",
+	"version"	: "347",
 	"races"		: [
 		{ "id":"001.1",			"name":"Mini Transat 1/2",					"shortName":"Mini 1/2",				"boatId":"mono/mini_6.50_v2",				"startDate":"2017-10-01T15:00Z", "endDate":"2017-10-13",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
 		{ "id":"329.1",			"name":"Clipper RTW 2/13",					"shortName":"Clipper 2/13",			"boatId":"mono/clipper_70_v2",				"startDate":"2017-10-04T15:00Z", "endDate":"2017-10-14",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
@@ -220,6 +220,6 @@
 		{ "id":"477.6",			"name":"Ushuaia - Recife",					"shortName":"Ushuaia - Recife",		"boatId":"mono/class40-2021",				"startDate":"2022-01-05T18:00Z", "endDate":"2022-01-28T18:00Z",	"route":{"from":{"flag":"ar", "name":"Ushuaia",				"lat":-55.11486,"lon":-66.35974	}, "to":{"flag":"br", "name":"Recife",				"lat":-8.079522,"lon":-34.88773	}, "center":"4/-32.55/-50.89"	},	"show":true		},
 		{ "id":"470.10",		"name":"King George Island - San Gregorio",	"shortName":"King G. - S. Gregorio","boatId":"mono/tara_v3",					"startDate":"2022-01-20T18:00Z", "endDate":"2022-02-05T19:00Z",	"route":{"from":{"flag":"gb", "name":"King George Island",	"lat":-62.25916,"lon":-58.29265	}, "to":{"flag":"cl", "name":"San Gregorio",		"lat":-52.45216,"lon":-69.50278	}, "center":"5/-59.767/-62.271"	},	"show":true		},
 		{ "id":"518.1",			"name":"Singapour Express",					"shortName":"Singapour Express",	"boatId":"mono/imoca_60_foils",				"startDate":"2022-01-23T18:00Z", "endDate":"2022-02-03T17:00Z",	"route":{"from":{"flag":"jp", "name":"Tokyo",				"lat":34.76565,	"lon":139.2399	}, "to":{"flag":"sg", "name":"Singapour",			"lat":1.2561,	"lon":103.8458	}, "center":"4/20.39/130.08"	},	"show":true		},
-		{ "id":"499.2",			"name":"Transquadra #2",					"shortName":"Transquadra #2",		"boatId":"mono/offshoreracer",				"startDate":"2022-01-29T17:00Z", "endDate":"2022-02-20T20:00Z", "route":{"from":{"flag":"pt", "name":"Madère",				"lat":32.70826, "lon":-16.70957	}, "to":{"flag":"fr", "name":"Martinique",			"lat":14.45233, "lon":-60.88207	}, "center":"4/23.00/-29.36"	},	"show":true		}
+		{ "id":"499.2",			"name":"Transquadra #2",					"shortName":"Transquadra #2",		"boatId":"mono/offshoreracer",				"startDate":"2022-01-29T13:00Z", "endDate":"2022-02-20T20:00Z", "route":{"from":{"flag":"pt", "name":"Madère",				"lat":32.70826, "lon":-16.70957	}, "to":{"flag":"fr", "name":"Martinique",			"lat":14.45233, "lon":-60.88207	}, "center":"4/23.00/-29.36"	},	"show":true		}
 	]
 }
