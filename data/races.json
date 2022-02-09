@@ -1,5 +1,5 @@
 {
-	"version"	: "351",
+	"version"	: "352",
 	"races"		: [
 		{ "id":"001.1",			"name":"Mini Transat 1/2",					"shortName":"Mini 1/2",				"boatId":"mono/mini_6.50_v2",				"startDate":"2017-10-01T15:00Z", "endDate":"2017-10-13",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
 		{ "id":"329.1",			"name":"Clipper RTW 2/13",					"shortName":"Clipper 2/13",			"boatId":"mono/clipper_70_v2",				"startDate":"2017-10-04T15:00Z", "endDate":"2017-10-14",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
@@ -222,6 +222,7 @@
 		{ "id":"518.1",			"name":"Singapour Express",					"shortName":"Singapour Express",	"boatId":"mono/imoca_60_foils",				"startDate":"2022-01-23T18:00Z", "endDate":"2022-02-08T17:00Z",	"route":{"from":{"flag":"jp", "name":"Tokyo",				"lat":34.76565,	"lon":139.2399	}, "to":{"flag":"sg", "name":"Singapour",			"lat":1.2561,	"lon":103.8458	}, "center":"4/20.39/130.08"	},	"show":true		},
 		{ "id":"499.2",			"name":"Transquadra #2",					"shortName":"Transquadra #2",		"boatId":"mono/offshoreracer",				"startDate":"2022-01-29T13:00Z", "endDate":"2022-02-20T20:00Z", "route":{"from":{"flag":"pt", "name":"Madère",				"lat":32.70826, "lon":-16.70957	}, "to":{"flag":"fr", "name":"Martinique",			"lat":14.45233, "lon":-60.88207	}, "center":"4/23.00/-29.36"	},	"show":true		},
 		{ "id":"520.1",			"name":"Dubaï to Muscat 2022",				"shortName":"Dubaï - Muscat",		"boatId":"mono/figaro3",					"startDate":"2022-02-05T09:00Z", "endDate":"2022-02-11T00:00Z",	"route":{"from":{"flag":"ae", "name":"Dubai",				"lat":25.18762,	"lon":55.19779	}, "to":{"flag":"om", "name":"Muscat",				"lat":23.58408,	"lon":58.61496	}, "center":"7/24.192/58.931"	},	"show":true		},
-		{ "id":"477.7",			"name":"Recife - Grenada",					"shortName":"Recife - Grenada",		"boatId":"mono/class40-2021",				"startDate":"2022-02-06T18:00Z", "endDate":"2022-02-18T18:37Z",	"route":{"from":{"flag":"br", "name":"Recife",				"lat":-8.041326,"lon":-34.80773	}, "to":{"flag":"gd", "name":"Saint Georges",		"lat":12.04507,"lon":-61.75445	}, "center":"5/2.285/-46.406"	},	"show":true		}
+		{ "id":"477.7",			"name":"Recife - Grenada",					"shortName":"Recife - Grenada",		"boatId":"mono/class40-2021",				"startDate":"2022-02-06T18:00Z", "endDate":"2022-02-18T18:37Z",	"route":{"from":{"flag":"br", "name":"Recife",				"lat":-8.041326,"lon":-34.80773	}, "to":{"flag":"gd", "name":"Saint Georges",		"lat":12.04507,"lon":-61.75445	}, "center":"5/2.285/-46.406"	},	"show":true		},
+		{ "id":"519.1",			"name":"China Race",						"shortName":"China Race",			"boatId":"mono/super_maxi_100",				"startDate":"2022-02-13T18:00Z", "endDate":"2022-02-23T15:00Z",	"route":{"from":{"flag":"hk", "name":"Hong Kong",			"lat":22.2204,	"lon":114.2965	}, "to":{"flag":"cn", "name":"Qingdao",				"lat":36.05388,	"lon":120.3163	}, "center":"5/29.344/121.992"	},	"show":true		}
 	]
 }
