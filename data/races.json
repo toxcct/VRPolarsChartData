@@ -1,5 +1,5 @@
 {
-	"version"	: "358",
+	"version"	: "359",
 	"races"		: [
 		{ "id":"001.1",			"name":"Mini Transat 1/2",					"shortName":"Mini 1/2",				"boatId":"mono/mini_6.50_v2",				"startDate":"2017-10-01T15:00Z", "endDate":"2017-10-13",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
 		{ "id":"329.1",			"name":"Clipper RTW 2/13",					"shortName":"Clipper 2/13",			"boatId":"mono/clipper_70_v2",				"startDate":"2017-10-04T15:00Z", "endDate":"2017-10-14",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
@@ -227,6 +227,7 @@
 		{ "id":"509.1",			"name":"RORC Caribbean 600 Race",			"shortName":"RORC Carib 600",		"boatId":"mono/class40-2021",				"startDate":"2022-02-21T16:00Z", "endDate":"2022-02-28T23:00Z",	"route":{"from":{"flag":"ag", "name":"Antigua",				"lat":16.9873,	"lon":-61.7759	}, "to":{"flag":"ag", "name":"Antigua",				"lat":17.014,	"lon":-61.7772	}, "center":"7/16.030/-60.941"	},	"show":true		},
 		{ "id":"528.1",			"name":"Sydney - Tahiti",					"shortName":"Sydney - Tahiti",		"boatId":"multi/maxi_trimaran_x10percent",	"startDate":"2022-02-16T17:00Z", "endDate":"2022-03-31T22:00Z",	"route":{"from":{"flag":"au", "name":"Sydney",				"lat":-33.83683,"lon":151.3181	}, "to":{"flag":"fr", "name":"Papeete",				"lat":-17.55512,"lon":-149.6386	}, "center":"3/-29.15/-156.09"	},	"show":true		},
 		{ "id":"477.8",			"name":"Grenada - Lorient",					"shortName":"Grenada - Lorient",	"boatId":"mono/class40-2021",				"startDate":"2022-02-26T13:00Z", "endDate":"2022-03-20T13:05Z",	"route":{"from":{"flag":"gd", "name":"Saint Georges",		"lat":12.05566,"lon":-61.77762	}, "to":{"flag":"fr", "name":"Lorient",				"lat":47.72477,	"lon":-3.36878	}, "center":"3/29.61/-22.68"	},	"show":true		},
-		{ "id":"470.11",		"name":"San Gregorio - Cape Town",			"shortName":"San Gr. - Cape Town",	"boatId":"mono/tara_v3",					"startDate":"2022-03-02T18:00Z", "endDate":"2022-03-31T14:00Z",	"route":{"from":{"flag":"cl", "name":"San Gregorio",		"lat":-52.53456,"lon":-68.49753	}, "to":{"flag":"za", "name":"Cape Town",			"lat":-33.8978,	"lon":18.42114	}, "center":"3/-43.13/3.16"		},	"show":true		}
+		{ "id":"470.11",		"name":"San Gregorio - Cape Town",			"shortName":"San Gr. - Cape Town",	"boatId":"mono/tara_v3",					"startDate":"2022-03-02T18:00Z", "endDate":"2022-03-31T14:00Z",	"route":{"from":{"flag":"cl", "name":"San Gregorio",		"lat":-52.53456,"lon":-68.49753	}, "to":{"flag":"za", "name":"Cape Town",			"lat":-33.8978,	"lon":18.42114	}, "center":"3/-43.13/3.16"		},	"show":true		},
+		{ "id":"524.1",			"name":"Fight Your Champion",				"shortName":"Fight Your Champion",	"boatId":"multi/maxi_trimaran_x10percent",	"startDate":"2022-03-06T18:00Z", "endDate":"2022-03-17T23:00Z",	"route":{"from":{"flag":"fr", "name":"Toulon",				"lat":43.07366,"lon":5.980136	}, "to":{"flag":"no", "name":"Svolvær",				"lat":68.24902,	"lon":14.52664	}, "center":"4/58.24/10.46"		},	"show":true		}
 	]
 }
