@@ -1,5 +1,5 @@
 {
-	"version"	: "367",
+	"version"	: "368",
 	"races"		: [
 		{ "id":"001.1",			"name":"Mini Transat 1/2",					"shortName":"Mini 1/2",				"boatId":"mono/mini_6.50_v2",				"startDate":"2017-10-01T15:00Z", "endDate":"2017-10-13",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
 		{ "id":"329.1",			"name":"Clipper RTW 2/13",					"shortName":"Clipper 2/13",			"boatId":"mono/clipper_70_v2",				"startDate":"2017-10-04T15:00Z", "endDate":"2017-10-14",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
@@ -233,6 +233,6 @@
 		{ "id":"525.1",			"name":"St Patrick Trophy",					"shortName":"St Patrick Trophy",	"boatId":"multi/multi_50_v2",				"startDate":"2022-03-17T18:00Z", "endDate":"2022-03-28T17:30Z",	"route":{"from":{"flag":"ie", "name":"Dublin",				"lat":53.32834,	"lon":-6.081083	}, "to":{"flag":"gb", "name":"Belfast",				"lat":54.63746,	"lon":-5.895002	}, "center":"6/53.625/-4.52"	},	"show":true		},
 		{ "id":"533.1",			"name":"Race for Peace",					"shortName":"Race for Peace",		"boatId":"mono/class40-2021",				"startDate":"2022-03-14T18:00Z", "endDate":"2022-03-24T22:00Z",	"route":{"from":{"flag":"ua", "name":"Odessa",				"lat":46.43133,	"lon":30.80055	}, "to":{"flag":"ua", "name":"Odessa",				"lat":46.50357,	"lon":30.74054	}, "center":"6/43.898/35.991"	},	"show":true		},
 		{ "id":"529.1",			"name":"Bombay Quest",						"shortName":"Bombay Quest",			"boatId":"mono/super_maxi_100",				"startDate":"2022-03-27T14:00Z", "endDate":"2022-04-10T14:00Z",	"route":{"from":{"flag":"za", "name":"Port Elisabeth",		"lat":-34.04604,"lon":25.90922	}, "to":{"flag":"in", "name":"Bombay",				"lat":18.97673,	"lon":72.85758	}, "center":"3/0.00/84.38"		},	"show":true		},
-		{ "id":"527.1",			"name":"CCEDHEC",							"shortName":"CCEDHEC",				"boatId":"mono/offshoreracer",				"startDate":"2022-04-01T17:00Z", "endDate":"2022-04-08T12:00Z", "route":{"from":{"flag":"fr", "name":"Dunkerque",			"lat":51.07617, "lon":2.333665	}, "to":{"flag":"fr", "name":"Le Crouesty",			"lat":47.54031, "lon":-2.902693	}, "center":"6/48.698/-0.813"	},	"show":true		}
+		{ "id":"527.1",			"name":"CCEDHEC",							"shortName":"CCEDHEC",				"boatId":"mono/offshoreracer",				"startDate":"2022-04-01T17:00Z", "endDate":"2022-04-10T17:00Z", "route":{"from":{"flag":"fr", "name":"Dunkerque",			"lat":51.07617, "lon":2.333665	}, "to":{"flag":"fr", "name":"Le Crouesty",			"lat":47.54031, "lon":-2.902693	}, "center":"6/48.698/-0.813"	},	"show":true		}
 	]
 }
