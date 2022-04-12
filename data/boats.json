@@ -1,5 +1,5 @@
 {
-	"version"	: "105",
+	"version"	: "106",
 	"boats"		: [
 		{ "id":"mono/mini_6.50_v2",					"name":"Mini 6.50 (V2)"			},
 		{ "id":"mono/mini_6.50_v3",					"name":"Mini 6.50 (V3)"			},
@@ -13,7 +13,8 @@
 		{ "id":"mono/imoca_60_foils",				"name":"Imoca 60 (Foils)"		},
 		{ "id":"mono/imoca_60_new",					"name":"Imoca 60"				},
 		{ "id":"mono/imoca_60_old",					"name":"Imoca 60 (Old)"			},
-		{ "id":"mono/caravel",						"name":"Caravelle"				},
+		{ "id":"mono/caravel_v1",					"name":"Caravelle (Old)"		},
+		{ "id":"mono/caravel_v2",					"name":"Caravelle"				},
 		{ "id":"mono/oceanis",						"name":"Oceanis 40.1"			},
 		{ "id":"mono/super_maxi_100",				"name":"Super Maxi 100"			},
 		{ "id":"mono/tara_v1",						"name":"Tara (V1)"				},
