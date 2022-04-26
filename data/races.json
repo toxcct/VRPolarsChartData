@@ -1,5 +1,5 @@
 {
-	"version"	: "380",
+	"version"	: "381",
 	"races"		: [
 		{ "id":"001.1",			"name":"Mini Transat 1/2",					"shortName":"Mini 1/2",				"boatId":"mono/mini_6.50_v2",				"startDate":"2017-10-01T15:00Z", "endDate":"2017-10-13",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
 		{ "id":"329.1",			"name":"Clipper RTW 2/13",					"shortName":"Clipper 2/13",			"boatId":"mono/clipper_70_v2",				"startDate":"2017-10-04T15:00Z", "endDate":"2017-10-14",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
@@ -238,7 +238,7 @@
 		{ "id":"516.1",			"name":"Les 1000 milles des Sables",		"shortName":"1000 milles",			"boatId":"mono/class40-2021",				"startDate":"2022-04-09T12:00Z", "endDate":"2022-04-18T22:00Z",	"route":{"from":{"flag":"fr", "name":"Les Sables d'Olonne",	"lat":46.47967,	"lon":-1.805055	}, "to":{"flag":"fr", "name":"Les Sables d'Olonne",	"lat":46.48883,	"lon":-1.784791	}, "center":"6/49.253/-3.735"	},	"show":true		},
 		{ "id":"536.1",			"name":"Oceans 2022 #1",					"shortName":"Oceans 2022 #1",		"boatId":"mono/super_maxi_100",				"startDate":"2022-04-05T17:00Z", "endDate":"2022-04-15T00:00Z",	"route":{"from":{"flag":"fr", "name":"Papeete",				"lat":-17.53243,"lon":-149.5955	}, "to":{"flag":"fr", "name":"Noumea",				"lat":-22.28613,"lon":166.4633	}, "center":"4/-15.79/-175.61"	},	"show":true		},
 		{ "id":"537.1",			"name":"Easter Mission",					"shortName":"Easter Mission",		"boatId":"mono/super_maxi_100",				"startDate":"2022-04-17T17:00Z", "endDate":"2022-04-26T17:00Z",	"route":{"from":{"flag":"cl", "name":"Cabo de Hornos",		"lat":-55.96823,"lon":-67.33444	}, "to":{"flag":"cl", "name":"Hanga Roa",			"lat":-27.14335,"lon":-109.4349	}, "center":"4/-36.88/-67.76"	},	"show":true		},
-		{ "id":"522.1",			"name":"Mayflower",							"shortName":"Mayflower",			"boatId":"mono/caravel_v2",					"startDate":"2022-04-25T17:00Z", "endDate":"2022-06-01T22:00Z",	"route":{"from":{"flag":"gb", "name":"Plymouth",			"lat":50.26173,	"lon":-4.158902	}, "to":{"flag":"us", "name":"Plymouth",			"lat":41.98368,	"lon":-70.68352	}, "center":"4/44.47/-33.40"	},	"show":true		},
+		{ "id":"522.1",			"name":"Mayflower",							"shortName":"Mayflower",			"boatId":"mono/caravel_v2",					"startDate":"2022-04-27T17:00Z", "endDate":"2022-06-01T22:00Z",	"route":{"from":{"flag":"gb", "name":"Plymouth",			"lat":50.26173,	"lon":-4.158902	}, "to":{"flag":"us", "name":"Plymouth",			"lat":41.98368,	"lon":-70.68352	}, "center":"4/44.47/-33.40"	},	"show":true		},
 		{ "id":"536.2",			"name":"Oceans 2022 #2",					"shortName":"Oceans 2022 #2",		"boatId":"mono/super_maxi_100",				"startDate":"2022-04-20T16:00Z", "endDate":"2022-04-28T16:38Z",	"route":{"from":{"flag":"fr", "name":"Saint Pierre",		"lat":46.72182,	"lon":-56.1458	}, "to":{"flag":"fr", "name":"Bordeaux",			"lat":45.5758,	"lon":-1.082048	}, "center":"4/47.52/-22.76"	},	"show":true		}
 	]
 }
