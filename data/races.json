@@ -1,5 +1,5 @@
 {
-	"version"	: "383",
+	"version"	: "384",
 	"races"		: [
 		{ "id":"001.1",			"name":"Mini Transat 1/2",					"shortName":"Mini 1/2",				"boatId":"mono/mini_6.50_v2",				"startDate":"2017-10-01T15:00Z", "endDate":"2017-10-13",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
 		{ "id":"329.1",			"name":"Clipper RTW 2/13",					"shortName":"Clipper 2/13",			"boatId":"mono/clipper_70_v2",				"startDate":"2017-10-04T15:00Z", "endDate":"2017-10-14",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
@@ -241,6 +241,7 @@
 		{ "id":"522.1",			"name":"Mayflower",							"shortName":"Mayflower",			"boatId":"mono/caravel_v2",					"startDate":"2022-04-27T17:00Z", "endDate":"2022-06-01T22:00Z",	"route":{"from":{"flag":"gb", "name":"Plymouth",			"lat":50.26173,	"lon":-4.158902	}, "to":{"flag":"us", "name":"Plymouth",			"lat":41.98368,	"lon":-70.68352	}, "center":"4/44.47/-33.40"	},	"show":true		},
 		{ "id":"536.2",			"name":"Oceans 2022 #2",					"shortName":"Oceans 2022 #2",		"boatId":"mono/super_maxi_100",				"startDate":"2022-04-20T16:00Z", "endDate":"2022-04-28T16:38Z",	"route":{"from":{"flag":"fr", "name":"Saint Pierre",		"lat":46.72182,	"lon":-56.1458	}, "to":{"flag":"fr", "name":"Bordeaux",			"lat":45.5758,	"lon":-1.082048	}, "center":"4/47.52/-22.76"	},	"show":true		},
 		{ "id":"538.1",			"name":"Trophée Banque Populaire Grand Ouest","shortName":"Trophée BPGO",		"boatId":"mono/figaro3",					"startDate":"2022-05-01T12:00Z", "endDate":"2022-05-08T20:00Z",	"route":{"from":{"flag":"fr", "name":"Concarneau",			"lat":47.85246,	"lon":-3.938257	}, "to":{"flag":"fr", "name":"Pont Aven",			"lat":47.86348,	"lon":-3.919118	}, "center":"9/47.7661/-3.8274"	},	"show":true		},
-		{ "id":"540.1",			"name":"Guyader Bermudes 1000 Race",		"shortName":"Bermudes 1000",		"boatId":"mono/imoca_60_foils",				"startDate":"2022-05-08T12:00Z", "endDate":"2022-05-15T16:00Z",	"route":{"from":{"flag":"fr", "name":"Brest",				"lat":48.30636,	"lon":-4.648479	}, "to":{"flag":"fr", "name":"Brest",				"lat":48.34569,	"lon":-4.537672	}, "center":"6/48.713/-7.690"	},	"show":true		}
+		{ "id":"540.1",			"name":"Guyader Bermudes 1000 Race",		"shortName":"Bermudes 1000",		"boatId":"mono/imoca_60_foils",				"startDate":"2022-05-08T12:00Z", "endDate":"2022-05-15T16:00Z",	"route":{"from":{"flag":"fr", "name":"Brest",				"lat":48.30636,	"lon":-4.648479	}, "to":{"flag":"fr", "name":"Brest",				"lat":48.34569,	"lon":-4.537672	}, "center":"6/48.713/-7.690"	},	"show":true		},
+		{ "id":"535.1",			"name":"Honolulu - Yokohama",				"shortName":"Honolulu - Yokohama",	"boatId":"multi/maxi_trimaran_x10percent",	"startDate":"2022-05-01T00:00Z", "endDate":"2022-06-16T00:00Z",	"route":{"from":{"flag":"us", "name":"Honolulu",			"lat":21.22187,	"lon":-158.3266	}, "to":{"flag":"jp", "name":"Yokohama",			"lat":35.0658,	"lon":139.7201	}, "center":"4/25.36/176.66"	},	"show":true		}
 	]
 }
