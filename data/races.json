@@ -1,5 +1,5 @@
 {
-	"version"	: "394",
+	"version"	: "395",
 	"races"		: [
 		{ "id":"001.1",			"name":"Mini Transat 1/2",					"shortName":"Mini 1/2",				"boatId":"mono/mini_6.50_v2",				"startDate":"2017-10-01T15:00Z", "endDate":"2017-10-13",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
 		{ "id":"329.1",			"name":"Clipper RTW 2/13",					"shortName":"Clipper 2/13",			"boatId":"mono/clipper_70_v2",				"startDate":"2017-10-04T15:00Z", "endDate":"2017-10-14",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
@@ -248,6 +248,7 @@
 		{ "id":"513.1",			"name":"Vendée Arctique Les Sables d'Olonne","shortName":"Vendée Arctique",		"boatId":"mono/imoca_60_foils",				"startDate":"2022-06-12T15:00Z", "endDate":"2022-07-01T22:00Z",	"route":{"from":{"flag":"fr", "name":"Les Sables d'Olonne",	"lat":46.48225,	"lon":-1.828059	}, "to":{"flag":"fr", "name":"Les Sables d'Olonne",	"lat":46.50234,	"lon":-1.789371	}, "center":"4/58.49/-12.39"	},	"show":true		},
 		{ "id":"521.1",			"name":"Pantaenius Rund Skagen",			"shortName":"Rund Skagen",			"boatId":"mono/offshoreracer",				"startDate":"2022-06-06T14:30Z", "endDate":"2022-06-12T18:00Z",	"route":{"from":{"flag":"de", "name":"Helgoland",			"lat":54.20359,	"lon":7.894317	}, "to":{"flag":"de", "name":"Kiel",				"lat":54.39674,	"lon":10.209	}, "center":"6/55.986/5.801"	},	"show":true		},
 		{ "id":"546.1",			"name":"Intertropical Challenge",			"shortName":"Intertropical Challenge","boatId":"multi/maxi_trimaran_v2",		"startDate":"2022-05-31T16:00Z", "endDate":"2022-06-12T18:00Z",	"route":{"from":{"flag":"br", "name":"Macapa",				"lat":-0.4085647,"lon":-48.13962}, "to":{"flag":"ci", "name":"Abidjan",				"lat":5.230335,	"lon":-3.985571	}, "center":"4/0.09/-19.07"		},	"show":true		},
-		{ "id":"548.1",			"name":"Pacific Ocean Race",				"shortName":"Pacific Ocean Race",	"boatId":"multi/multi_50_v2",				"startDate":"2022-06-08T17:00Z", "endDate":"2022-06-19T16:00Z",	"route":{"from":{"flag":"mx", "name":"Puerto Vallarta",		"lat":20.4571,	"lon":-105.8099	}, "to":{"flag":"ec", "name":"Puerto Isidro Ayora",	"lat":-2.75034,	"lon":-80.23446	}, "center":"4/9.23/-81.83"		},	"show":true		}
+		{ "id":"548.1",			"name":"Pacific Ocean Race",				"shortName":"Pacific Ocean Race",	"boatId":"multi/multi_50_v2",				"startDate":"2022-06-08T17:00Z", "endDate":"2022-06-19T16:00Z",	"route":{"from":{"flag":"mx", "name":"Puerto Vallarta",		"lat":20.4571,	"lon":-105.8099	}, "to":{"flag":"ec", "name":"Puerto Isidro Ayora",	"lat":-2.75034,	"lon":-80.23446	}, "center":"4/9.23/-81.83"		},	"show":true		},
+		{ "id":"542.1",			"name":"Groupama Race",						"shortName":"Groupama Race",		"boatId":"mono/offshoreracer",				"startDate":"2022-06-19T07:00Z", "endDate":"2022-06-27T00:00Z",	"route":{"from":{"flag":"fr", "name":"Noumea",				"lat":-22.29652,"lon":166.4152	}, "to":{"flag":"fr", "name":"Noumea",				"lat":-22.242,	"lon":166.3885	}, "center":"8/-21.377/165.385"	},	"show":true		}
 	]
 }
