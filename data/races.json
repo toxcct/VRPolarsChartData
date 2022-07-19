@@ -1,5 +1,5 @@
 {
-	"version"	: "405",
+	"version"	: "406",
 	"races"		: [
 		{ "id":"001.1",			"name":"Mini Transat 1/2",					"shortName":"Mini 1/2",				"boatId":"mono/mini_6.50_v2",				"startDate":"2017-10-01T15:00Z", "endDate":"2017-10-13",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
 		{ "id":"329.1",			"name":"Clipper RTW 2/13",					"shortName":"Clipper 2/13",			"boatId":"mono/clipper_70_v2",				"startDate":"2017-10-04T15:00Z", "endDate":"2017-10-14",		"route":{"from":{"flag":"",   "name":""														}, "to":{"flag":"",   "name":""														}, "center":"3/0/0"				},	"show":false	},
@@ -257,6 +257,7 @@
 		{ "id":"553.1",			"name":"Exmouth mission",					"shortName":"Exmouth mission",		"boatId":"multi/multi_50_v2",				"startDate":"2022-07-09T18:00Z", "endDate":"2022-07-24T18:00Z",	"route":{"from":{"flag":"in", "name":"Nicobar Island",		"lat":6.811124,	"lon":93.93526	}, "to":{"flag":"au", "name":"Exmouth",				"lat":-21.77335,"lon":114.2526	}, "center":"4/-2.11/111.36"	},	"show":true		},
 		{ "id":"510.1",			"name":"DRHEAM CUP",						"shortName":"DRHEAM CUP",			"boatId":"mono/class40-2021",				"startDate":"2022-07-17T12:00Z", "endDate":"2022-07-26T20:00Z",	"route":{"from":{"flag":"fr", "name":"Cherbourg",			"lat":49.67979,	"lon":-1.615407	}, "to":{"flag":"fr", "name":"La Trinité sur Mer",	"lat":47.56905,	"lon":-3.015306	}, "center":"6/50.597/-7.031"	},	"show":true		},
 		{ "id":"512.2",			"name":"Cabo Verde - Mauritius",			"shortName":"Cabo Verde - Mauritius","boatId":"mono/class40-2021",				"startDate":"2022-07-17T12:00Z", "endDate":"2022-08-22T18:00Z",	"route":{"from":{"flag":"pt", "name":"Sao Vicente",			"lat":16.80373,	"lon":-25.243	}, "to":{"flag":"mu", "name":"Mauritius",			"lat":-20.14393,"lon":57.48473	}, "center":"3/14.69/20.57"		},	"show":true		},
-		{ "id":"526.1",			"name":"Les Sables - Les Açores #1",		"shortName":"Sables Açores #1",		"boatId":"mono/mini_6.50_v3",				"startDate":"2022-07-19T11:00Z", "endDate":"2022-08-01T00:00Z",	"route":{"from":{"flag":"fr", "name":"Les Sables d'Olonne",	"lat":46.48055,	"lon":-1.806196	}, "to":{"flag":"pt", "name":"Horta",				"lat":38.53863,	"lon":-28.61953	}, "center":"5/42.303/-15.214"	},	"show":true		}
+		{ "id":"526.1",			"name":"Les Sables - Les Açores #1",		"shortName":"Sables Açores #1",		"boatId":"mono/mini_6.50_v3",				"startDate":"2022-07-19T11:00Z", "endDate":"2022-08-01T00:00Z",	"route":{"from":{"flag":"fr", "name":"Les Sables d'Olonne",	"lat":46.48055,	"lon":-1.806196	}, "to":{"flag":"pt", "name":"Horta",				"lat":38.53863,	"lon":-28.61953	}, "center":"5/42.303/-15.214"	},	"show":true		},
+		{ "id":"552.1",			"name":"RORC Baltic Sea Race",				"shortName":"RORC Baltic",			"boatId":"mono/offshoreracer",				"startDate":"2022-07-21T12:00Z", "endDate":"2022-07-29T15:00Z",	"route":{"from":{"flag":"fi", "name":"Helsinki",			"lat":60.1518,	"lon":24.9945	}, "to":{"flag":"fi", "name":"Helsinki",			"lat":60.17735,	"lon":24.96999	}, "center":"6/58.298/24.346"	},	"show":true		}
 	]
 }
